@@ -4,7 +4,7 @@ Create a comprehensive Inventory Management System tailored for a retail store. 
 
 ## Overview
 
-Welcome to ZenithStock, a state-of-the-art Inventory Management System designed to revolutionize the control and efficiency of your store's inventory. Developed with precision and user-friendliness in mind, ZenithStock empowers administrators and employees alike to seamlessly manage products, process orders, and maintain optimal stock levels.
+Welcome to a state-of-the-art Inventory Management System designed to revolutionize the control and efficiency of your store's inventory. Developed with precision and user-friendliness in mind, ZenithStock empowers administrators and employees alike to seamlessly manage products, process orders, and maintain optimal stock levels.
 
 ## Key Features
 
